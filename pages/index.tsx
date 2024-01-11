@@ -13,7 +13,7 @@ export default function Home() {
       <Head>
         <title>KM Entertainment</title>
       </Head>
-      <main className="bg-slate-100 dark:bg-slate-900 min-h-screen">
+      <main>
         <header className="w-full pt-8 sm:pt-14 flex flex-col gap-5 sm:gap-9 items-center justify-center">
           <Image
             src="/logoBlack.png"
