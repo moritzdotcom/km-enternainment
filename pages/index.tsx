@@ -53,7 +53,7 @@ export default function Home() {
               <FaFacebook />
             </a>
             <a
-              href="https://www.instagram.com/_km_entertainment"
+              href="https://www.instagram.com/_km_entertainment_"
               target="_blank"
               className="text-4xl text-black dark:text-white"
             >
